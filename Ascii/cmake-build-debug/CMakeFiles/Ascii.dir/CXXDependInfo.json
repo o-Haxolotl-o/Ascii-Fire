@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/archie/Documents/Projects/C++/Ascii/cmake-build-debug",
+	"dir-cur-src" : "/home/archie/Documents/Projects/C++/Ascii",
+	"dir-top-bld" : "/home/archie/Documents/Projects/C++/Ascii/cmake-build-debug",
+	"dir-top-src" : "/home/archie/Documents/Projects/C++/Ascii",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/archie/Documents/Projects/C++/Ascii/cmake-build-debug/CMakeFiles/Ascii.dir"
+}

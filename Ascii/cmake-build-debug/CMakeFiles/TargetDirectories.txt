@@ -1,0 +1,3 @@
+/home/archie/Documents/Projects/C++/Ascii/cmake-build-debug/CMakeFiles/Ascii.dir
+/home/archie/Documents/Projects/C++/Ascii/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/archie/Documents/Projects/C++/Ascii/cmake-build-debug/CMakeFiles/rebuild_cache.dir
